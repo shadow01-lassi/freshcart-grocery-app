@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ff57400a-86c8-452c-a7fd-5c54f98650b9",
+    "name": "dhruv",
+    "email": "dhruv@gmail.com",
+    "password": "$2b$10$DhV4ygMV4M41eK.gCsLGPuM/KmNu1oF2UBrqxDZnOYRNkYtFPmMzS",
+    "createdAt": "2026-05-01T07:13:44.883Z"
+  },
+  {
+    "id": "8cd4f1af-0c48-4800-afed-1fab111ee8c2",
+    "name": "raj",
+    "email": "raj@gmail.com",
+    "password": "$2b$10$nuLqSwiLzxdj4YuEQak8veCODdq9IzIgYY8wY2Hp0SnfD15H9mt6a",
+    "createdAt": "2026-05-01T07:14:51.518Z"
+  }
+]

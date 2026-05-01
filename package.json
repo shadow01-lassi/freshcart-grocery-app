@@ -1,0 +1,23 @@
+{
+  "name": "grocery-application",
+  "version": "1.0.0",
+  "description": "A full-stack grocery selling application with product browsing, cart management, and order placement.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.3",
+    "uuid": "^9.0.0"
+  },
+  "keywords": [
+    "grocery",
+    "shopping",
+    "cart",
+    "express"
+  ],
+  "license": "MIT"
+}

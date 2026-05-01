@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+.env
+
+# If you want to keep the local database files private, uncomment these:
+# backend/data/users.json
+# backend/data/carts.json
+# backend/data/orders.json
